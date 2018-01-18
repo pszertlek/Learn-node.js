@@ -1,0 +1,9 @@
+//ctrl + c 退出当前终端
+//ctrl + c 按两下 -推出Node REPL
+//ctrl + d 退出 nodeREPL
+//上／下 查看输入历史
+//tab - 列出当前命令
+//.help -列出使用命令
+//.clear -推出多行表达式
+//.save filename -保存当前node REPL 会话到指定文件
+//.load filename - 载入node REPL
